@@ -1,0 +1,14 @@
+1.first of all open regedit
+2.then go to current user
+3.go to software
+4.then go to microsoft
+5.then windows
+6.explorer
+7.then file exts 
+go to .lnk then delete all but left remaing
+ 
+###
+1.go to task manager
+2.then end process of explorer
+3.go to new task
+4.and type there C:\Windows\explorer.exe

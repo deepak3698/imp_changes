@@ -1,0 +1,11 @@
+####some Shortcut's of the pycharm
+
+
+1...ctrl+alt+i  (for indentation)
+
+2...ctrl+/   (for comment  and also for uncomment )
+
+*3...ctrl+mouse-wheel (for change-font-size(zoom) )
+
+*for zooming you have to do some setting in your pycharm.
+(File>Setting>Editor>General) then enable checkbox for zooming(changefontsize...)

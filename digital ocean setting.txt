@@ -1,0 +1,13 @@
+sudo apt-get update
+
+sudo apt-get install apache2
+
+apt-get install mysql-server
+
+sudo apt-get install php libapache2-mod-php php-mcrypt php mysql
+
+sudo systemct1 restart apache2
+
+apt-get install phpmyadmin
+
+service apache2 restart
